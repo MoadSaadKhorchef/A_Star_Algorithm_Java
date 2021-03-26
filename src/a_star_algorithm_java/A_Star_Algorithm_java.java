@@ -3,13 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package a_star_algorithm;
+package a_star_algorithm_java;
 
 /**
  *
  * @author Moad
  */
-public class A_Star_Algorithm {
+public class A_Star_Algorithm_java {
 
     /**
      * @param args the command line arguments
